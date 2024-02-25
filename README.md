@@ -1,17 +1,20 @@
-Mariellyn Maiby
-RPA Developer Trainee | Uipath | Blue Prism | HTML | CSS | C# | Python
+<img src="https://github.com/mariellyn/mariellyn/blob/main/mariBaner.png"></a>
 
-<!--
-**mariellyn/mariellyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<p align="center">
+<strong>Sou uma profissional em transição de carreira com habilidades emergentes na área de programação, especialmente em RPA , com foco em ferramentas como UiPath e Blue Prism. </p>
+<p align="center">
+Estou aprimorando minhas habilidades em linguagens de programação como C#, HTML, CSS e SQL para desenvolver soluções automatizadas e eficazes.</p>
+<p align="center">
+Minha paixão pela tecnologia e pela combinação de criatividade e lógica na programação me impulsionam a continuar aprendendo e crescendo nesse campo dinâmico e inovador. Estou confiante de que minha experiência e determinação me permitirão fazer uma contribuição significativa no campo da programação e automação.</strong></p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<strong>Contatos:</strong>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/stephanie-augusta-lopes-cardoso/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-8A65B5?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/stephanie-augusta-lopes-cardoso/"/>
+  </a>
+</p>
